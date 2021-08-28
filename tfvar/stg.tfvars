@@ -1,4 +1,6 @@
 region        = "ap-southeast-1"
+access_key    = "AKIAY4NDH7Q66JH3QGEQ"
+secret_key    = "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"
 vpc_name      = "stg_my_vpc"
 ec2_name      = "stg_my_ec2"
 vpc_cidr      = "10.0.0.0/16"
