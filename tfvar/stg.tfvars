@@ -1,0 +1,6 @@
+region        = "ap-southeast-1"
+vpc_name      = "stg_my_vpc"
+ec2_name      = "stg_my_ec2"
+vpc_cidr      = "10.0.0.0/16"
+ami           = "ami-0f511ead81ccde020"
+instance_type = "t2.micro"
